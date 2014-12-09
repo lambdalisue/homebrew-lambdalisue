@@ -1,7 +1,7 @@
  require 'formula'
 
 # Reference: https://github.com/b4winckler/macvim/wiki/building
-class Macvim < Formula
+class MacvimLambdalisue < Formula
   homepage 'http://code.google.com/p/macvim/'
   url 'https://github.com/lambdalisue/macvim/archive/snapshot-73.tar.gz'
   version '7.4-73'
