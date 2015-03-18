@@ -2,12 +2,6 @@
 
 # Reference: https://github.com/b4winckler/macvim/wiki/building
 class MacvimLambdalisue < Formula
-  homepage 'http://code.google.com/p/macvim/'
-  url 'https://github.com/lambdalisue/macvim/archive/snapshot-73.tar.gz'
-  version '7.4-73'
-  sha1 'b87e37fecb305a99bc268becca39f8854e3ff9f0'
-  revision 1
-
   head 'https://github.com/lambdalisue/macvim.git'
 
   option "custom-icons", "Try to generate custom document icons"
